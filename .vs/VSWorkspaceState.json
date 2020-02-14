@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\public\\resources",
+    "\\public\\resources\\strings",
+    "\\public\\resources\\strings\\en-US",
+    "\\public\\scripts",
+    "\\public\\styles",
+    "\\src",
+    "\\src\\controllers",
+    "\\src\\controllers\\commands",
+    "\\views"
+  ],
+  "PreviewInSolutionExplorer": false
+}
